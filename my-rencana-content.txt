@@ -3,5 +3,6 @@ Rencana Konten Baru
   * ES6
   * Framework Javascript
 - PHP Framework
+- Struktur data dasar
 - interview
 - vlog
