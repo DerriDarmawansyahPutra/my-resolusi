@@ -4,6 +4,7 @@ Rencana Konten Baru
   * Framework Javascript
     1. Angular
     2. React
+    3. Vue
 - PHP Framework
   * Laravel
 - interview
